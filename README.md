@@ -24,7 +24,7 @@ This project is developed as part of a frontend, backend, and database knowledge
 ---
 
 ## 📂 Project Structure
-
+```
 good-morning-test/
 │
 ├── frontend/ # React frontend application
@@ -36,7 +36,7 @@ good-morning-test/
 ├── database/ # Database related files / demo
 │
 └── README.md
-
+```
 
 ---
 
@@ -54,4 +54,9 @@ good-morning-test/
 ```bash
 cd backend
 node index.js
+```
+### 2️⃣ Start Frontend
+```
+cd frontend
+npm start
 ```
