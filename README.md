@@ -3,6 +3,10 @@
 This project is developed as part of a frontend, backend, and database knowledge test.
 
 ---
+## AUTHOR 
+### G Sanjay
+### 9884520858
+### sanjay77665522@gmail.com
 
 ## 🛠 Tech Stack
 
