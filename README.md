@@ -1,0 +1,57 @@
+# Good Morning Test Project
+
+This project is developed as part of a frontend, backend, and database knowledge test.
+
+---
+
+## 🛠 Tech Stack
+
+- React JS (Frontend)
+- Node.js
+- Express.js
+- PostgreSQL (Database)
+
+---
+
+## ✨ Features
+
+- Good Morning webpage
+- User input form (Name, Phone, Email)
+- REST API for form submission
+- PostgreSQL database storage
+- Local database setup with demo video
+
+---
+
+## 📂 Project Structure
+
+good-morning-test/
+│
+├── frontend/ # React frontend application
+│ └── good-morning-ui
+│
+├── backend/ # Node.js + Express backend API
+│ └── index.js
+│
+├── database/ # Database related files / demo
+│
+└── README.md
+
+
+---
+
+## ▶️ How to Run the Project Locally
+
+### 1️⃣ Start PostgreSQL
+- Ensure PostgreSQL service is running
+- Database name: `goodmorningdb`
+- Table name: `users`
+
+---
+
+### 2️⃣ Start Backend Server
+
+```bash
+cd backend
+node index.js
+```
